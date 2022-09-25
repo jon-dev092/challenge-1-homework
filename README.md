@@ -3,7 +3,7 @@
 ## Description
 
 As a web developer I am entitled to refractor older code to help build or improve the efficiency of its footprint on the web.
- By making the website more user friendly and accessible we can help improve its visability to the public and this motivated me to 
+ By making the website more user friendly and accessible we can help improve its visibility to the public and this motivated me to 
  revise and build a more efficient code. The changes included are as follows:
 
  * Give HTML5 and CSS semantic structure
