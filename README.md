@@ -13,7 +13,7 @@ As a web developer I am entitled to refractor older code to help build or improv
  * Significantly consolidate CSS
  * Comment and indent code
 
-![screenshot of homepage](./Assets/screenshot.png)
+![screenshot of homepage](./Assets/images/screenshot.png)
 
 ## License
 
