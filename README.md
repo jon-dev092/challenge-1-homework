@@ -18,3 +18,11 @@ As a web developer I am entitled to refractor older code to help build or improv
 ## License
 
 * MIT
+
+## Published Pages
+
+* [Github Repository](https://github.com/jon-dev092/challenge-1-homework) 
+
+* [Deployed Page](https://jon-dev092.github.io/challenge-1-homework/)
+
+
